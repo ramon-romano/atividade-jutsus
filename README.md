@@ -11,7 +11,6 @@ Aplicação (Laravel) que identifica qual Jutsu foi realizado a partir da sequê
 
 - Usar o conceito de **AFND** com **tabela dinâmica**
 - Identificar o **Jutsu** a partir dos **selos**
-- Entregar com link do Git + lista dos alunos (Nome completo + R.A.)
 
 Lista de selos: https://naruto.fandom.com/pt-br/wiki/Selos_de_M%C3%A3o
 
